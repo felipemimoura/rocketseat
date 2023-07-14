@@ -73,6 +73,10 @@ button {
   cursor: pointer;
 }
 
+button:hover{
+  background-color: #69b99d7a;
+}
+
 footer {
   margin-top: 82px;
   font-size: 14px;
