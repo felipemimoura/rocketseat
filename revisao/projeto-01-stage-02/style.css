@@ -1,0 +1,69 @@
+body {
+  width: 592px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#hero {
+  width: 592px;
+  margin: 0 auto 72px;
+}
+
+h1 {
+  font-family: 'Inter', sans-serif;
+  color: #000;
+  text-align: center;
+  font-weight: normal;
+  font-size: 49px;
+  line-height: 56px;
+  margin-top: 72px;
+}
+
+h1 strong {
+  color: #F90;
+  font-family: Inter;
+  font-size: 49px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 56px;
+}
+
+p {
+  color: #7D7987;
+  text-align: center;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+p strong {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+p span {
+  color: #F90;
+  font-size: 14px;
+  line-height: 28px;
+}
+
+
+#line {
+  width: 592px;
+  margin: 72px auto 8px;
+  border-top: 1px solid #ECEFF2;
+}
+a {
+  color: #F90;
+}
+a+a {
+margin-left: 28px;
+
+}
+
+.balls {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+}
